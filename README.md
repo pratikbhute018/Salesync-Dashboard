@@ -34,6 +34,7 @@ Dashboard Type: Interactive & Business-Ready
 
 📁 Files Included  
 📁 Raw Datasets
+
 📄 SALESYNC.pbix — Power BI Dashboard file  
 🖼️ SALESYNC.png — Dashboard image preview  
 📘 README.md — Project overview and insights (this file)  
